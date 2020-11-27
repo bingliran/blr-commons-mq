@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.blr.common.rabbit.config.RabbitAutoConfig,\
+com.blr.common.rocket.config.RocketAutoConfig
